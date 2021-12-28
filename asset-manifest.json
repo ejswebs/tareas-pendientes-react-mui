@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tareas-pendientes-react-mui/static/css/main.6afd5f2a.css",
+    "main.js": "/tareas-pendientes-react-mui/static/js/main.d279f662.js",
+    "index.html": "/tareas-pendientes-react-mui/index.html",
+    "main.6afd5f2a.css.map": "/tareas-pendientes-react-mui/static/css/main.6afd5f2a.css.map",
+    "main.d279f662.js.map": "/tareas-pendientes-react-mui/static/js/main.d279f662.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6afd5f2a.css",
+    "static/js/main.d279f662.js"
+  ]
+}
