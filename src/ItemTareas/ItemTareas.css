@@ -1,0 +1,16 @@
+.MuiListItemText-root.ItemText.ItemText--completed {
+    text-decoration: line-through;
+    color: green;
+  }
+
+  
+.MuiAvatar-root.MuiAvatar-circular.MuiAvatar-colorDefault{
+  color: gray;
+  background-color: transparent;
+}
+
+.MuiAvatar-root.MuiAvatar-circular.MuiAvatar-colorDefault--completed{
+  color: white;
+  background-color: green;
+}
+

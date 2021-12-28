@@ -1,0 +1,10 @@
+.MuiButtonBase-root.MuiFab-root.BotonCrear.MuiFab-primary{
+
+    bottom: 24px;
+    right: 15%;
+    z-index: 1;
+    font-weight: bold;
+    cursor: pointer;
+    position: fixed;
+    
+}

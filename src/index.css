@@ -1,0 +1,16 @@
+body {
+  text-align: center;
+  padding: 0;
+  background: #F2F4F5;
+  color: #1E1E1F;
+  font-family: 'Roboto', Arial, Helvetica, sans-serif;
+}
+
+#root {
+  text-align: center;
+  margin: 0 10%;
+  position: relative;
+  min-height: 98vh;
+  border-radius: 30px;
+  border: 2px solid #2F54B3;
+}

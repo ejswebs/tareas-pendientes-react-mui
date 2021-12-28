@@ -1,0 +1,24 @@
+.Buscador {
+    margin: 0 24px;
+    height: 64px;
+    width: calc(100% - 62px);
+    font-size: 24px;
+    text-align: center;
+    font-family: 'Montserrat';
+    font-weight: 400;
+}
+
+.AgregarTarea{
+    margin: 0 24px;
+    height: 64px;
+    width: calc(100%);
+    font-size: 24px;
+    text-align: center;
+    font-family: 'Montserrat';
+    font-weight: 400;
+}
+
+.AgregarTarea--error {
+
+    border-color: red;
+}
